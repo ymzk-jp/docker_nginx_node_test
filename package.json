@@ -1,0 +1,20 @@
+{
+  "name": "docker_nginx_node_test",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000o\u0000c\u0000k\u0000e\u0000r\u0000_\u0000n\u0000g\u0000i\u0000n\u0000x\u0000_\u0000n\u0000o\u0000d\u0000e\u0000_\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzk-jp/docker_nginx_node_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymzk-jp/docker_nginx_node_test/issues"
+  },
+  "homepage": "https://github.com/ymzk-jp/docker_nginx_node_test#readme"
+}
